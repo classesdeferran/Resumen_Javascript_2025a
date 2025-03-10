@@ -47,5 +47,5 @@ console.log(("Anna" < "Maria"));
 console.log(("maria" < "Marta"));
 
 // Ordenar los valores del array
-arrayFrutasNew.sort((a, b) => a - b) 
+arrayFrutasNew.sort() 
 console.log(arrayFrutasNew);
