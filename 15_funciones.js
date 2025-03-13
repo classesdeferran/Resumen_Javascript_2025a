@@ -46,3 +46,10 @@ if (mesFechaR < mesFechaN) {
 console.log(`Tu edad es ${edad}`);
     
 
+
+let restar = function(num1, num2) {
+    console.log(num1-num2);
+}
+
+restar(9, 7)
+restar(34, 55)
